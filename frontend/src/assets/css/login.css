@@ -1,0 +1,61 @@
+
+.form{
+    margin-top: 15%;
+    margin-left: 15%;
+}
+.form1{
+    margin-top: 1%;
+    margin-left: 15%;
+}
+.formlogin{
+    font-size: larger;
+    color:black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.formtext{
+    font-size: 24px;
+    color:black;
+    margin-left:30%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.formbutton{
+    width:35%;
+    font-size: 24%;
+    text-decoration: none;
+    margin-left: 18%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.logincontainer{
+    width:34%;
+    height:450px;
+    box-shadow: 0 5px 5px black;
+    border:0.2px solid black;
+    margin-top: 8%;
+    margin-left: 10%;
+    padding-top: 0.01%;
+    padding-bottom: 3.4%;
+    border-radius: 5%;
+}
+.logincontainer2{
+    width:34%;
+    height:600px;
+    box-shadow: 0 5px 5px black;
+    border:0.2px solid black;
+    margin-top: 5%;
+    margin-left: 10%;
+    padding-top: 0.01%;
+    padding-bottom: 3.4%;
+    border-radius: 5%;
+}
+.formp{
+    font-size: 17px;
+    color:black;
+    margin-left: 3%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-image: url("https://play-lh.googleusercontent.com/ZQ8w29kzAsk0CPTQSAZ2Gmb1cZBdwNkpoBHGl4x2AiG1DY8dudtDznKcL0WQAp7gx5w");
+    background-repeat: no-repeat;
+    background-position:right;
+    background-attachment: fixed;
+}
